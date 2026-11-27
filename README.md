@@ -3,7 +3,7 @@
 An end-to-end ML web app for exploring and predicting crop yield (hg/ha) 
 across countries, crops, and years.
 
-🔗 **Live Demo:** https://your-app.streamlit.app
+🔗 **Live Demo:** https://crop-yield-dashboard-naseer.streamlit.app
 📂 **Dataset:** [Kaggle Crop Yield Prediction](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset)
 
 ## Features
